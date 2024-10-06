@@ -1,0 +1,121 @@
+{
+    "queryCost": 1,
+    "latitude": 46.7687,
+    "longitude": 23.585,
+    "resolvedAddress": "Cluj-Napoca, Rom\u00e2nia",
+    "address": "Cluj-Napoca,RO",
+    "timezone": "Europe/Bucharest",
+    "tzoffset": 3.0,
+    "days": [
+        {
+            "datetime": "2024-10-06",
+            "datetimeEpoch": 1728162000,
+            "tempmax": 15.0,
+            "tempmin": 10.0,
+            "temp": 12.5,
+            "feelslikemax": 15.0,
+            "feelslikemin": 9.6,
+            "feelslike": 12.4,
+            "dew": 10.0,
+            "humidity": 85.7,
+            "precip": 9.8,
+            "precipprob": 100.0,
+            "precipcover": 41.67,
+            "preciptype": [
+                "rain"
+            ],
+            "snow": 0.0,
+            "snowdepth": 0.0,
+            "windgust": 25.9,
+            "windspeed": 12.9,
+            "winddir": 326.6,
+            "pressure": 1011.4,
+            "cloudcover": 99.0,
+            "visibility": 11.7,
+            "solarradiation": 43.3,
+            "solarenergy": 3.7,
+            "uvindex": 2.0,
+            "severerisk": 10.0,
+            "sunrise": "07:31:27",
+            "sunriseEpoch": 1728189087,
+            "sunset": "18:55:12",
+            "sunsetEpoch": 1728230112,
+            "moonphase": 0.12,
+            "conditions": "Rain, Overcast",
+            "description": "Cloudy skies throughout the day with rain.",
+            "icon": "rain",
+            "stations": [
+                "LRCT",
+                "LRCL",
+                "LRTM"
+            ],
+            "source": "comb"
+        }
+    ],
+    "stations": {
+        "LRCT": {
+            "distance": 37459.0,
+            "latitude": 46.5,
+            "longitude": 23.88,
+            "useCount": 0,
+            "id": "LRCT",
+            "name": "LRCT",
+            "quality": 38,
+            "contribution": 0.0
+        },
+        "LRCL": {
+            "distance": 7351.0,
+            "latitude": 46.78,
+            "longitude": 23.68,
+            "useCount": 0,
+            "id": "LRCL",
+            "name": "LRCL",
+            "quality": 50,
+            "contribution": 0.0
+        },
+        "LRTM": {
+            "distance": 71983.0,
+            "latitude": 46.47,
+            "longitude": 24.42,
+            "useCount": 0,
+            "id": "LRTM",
+            "name": "LRTM",
+            "quality": 50,
+            "contribution": 0.0
+        }
+    },
+    "currentConditions": {
+        "datetime": "19:00:00",
+        "datetimeEpoch": 1728230400,
+        "temp": 10.6,
+        "feelslike": 10.6,
+        "humidity": 94.16,
+        "dew": 9.7,
+        "precip": 1.5,
+        "precipprob": 54.8,
+        "snow": 0.0,
+        "snowdepth": 0.0,
+        "preciptype": [
+            "rain"
+        ],
+        "windgust": 24.8,
+        "windspeed": 7.6,
+        "winddir": 324.1,
+        "pressure": 1012.0,
+        "visibility": 13.5,
+        "cloudcover": 100.0,
+        "solarradiation": 2.0,
+        "solarenergy": 0.0,
+        "uvindex": 0.0,
+        "severerisk": 10.0,
+        "conditions": "Rain, Overcast",
+        "icon": "rain",
+        "stations": null,
+        "source": "fcst",
+        "sunrise": "07:31:27",
+        "sunriseEpoch": 1728189087,
+        "sunset": "18:55:12",
+        "sunsetEpoch": 1728230112,
+        "moonphase": 0.12
+    }
+}

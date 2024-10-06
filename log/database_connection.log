@@ -1,0 +1,8 @@
+INFO:2024-10-06 18:13:26,956:__enter__->Connection and cursor created successfully. Foreign keys enabled
+INFO:2024-10-06 18:13:26,956:__enter__->Tables successfully created or are already existing
+INFO:2024-10-06 18:13:26,957:add_location->Location Cluj-Napoca,RO was added
+WARNING:2024-10-06 18:13:26,957:_check_if_location_and_datetime_exists->Could not perform search for location Cluj-Napoca,RO and datetime 2024-10-06T19:00:00
+INFO:2024-10-06 18:13:26,957:add_conditions->Fetched id for Cluj-Napoca,RO
+INFO:2024-10-06 18:13:26,957:add_conditions->Condtions for location Cluj-Napoca,RO were added successfully
+INFO:2024-10-06 18:13:26,957:see_all_conditions->Data fetched successfully
+INFO:2024-10-06 18:13:26,960:__exit__->Changes commited. Connection and cursor closed succesfully
